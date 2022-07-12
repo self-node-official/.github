@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Here at <strong>Self Node</strong> we aim to bring full nodes inside the pockets of everyone.<br/>
-We are a group of developers that are currently focussing on web3 development and knowing that the providers world is costfull and competitive one we decided to bring it to anyone.<br/>
+Here at <strong>Self Node</strong> we aim to bring full nodes inside everyone's pockets.<br/>
+We are a group of developers that are currently focussing on web3. Knowing that the providers world is costfull and competitive one we decided to bring it to anyone.<br/>
 <i>Community By Default</i>
 </p>
