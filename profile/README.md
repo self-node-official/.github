@@ -19,3 +19,4 @@ We are a group of developers that are currently focussing on web3. Knowing that 
 <h3> Contact Us </h3>
 
 mail: contact@selfnode.xyz
+telegram: https://t.me/SelfNodeSupport
