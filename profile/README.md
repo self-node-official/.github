@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
+https://selfnode.xyz/<br/>
 Here at <strong>Self Node</strong> we aim to bring full nodes inside everyone's pockets.<br/>
 We are a group of developers that are currently focussing on web3. Knowing that the providers world is costfull and competitive we decided to bring it to anyone.<br/>
 <i>Community By Default</i>
+
 </p>
 
 <h2 > Setup your full node </h2>
@@ -21,3 +23,5 @@ We are a group of developers that are currently focussing on web3. Knowing that 
 mail: contact@selfnode.xyz
 
 telegram: https://t.me/SelfNodeSupport
+
+Website: https://selfnode.xyz/
